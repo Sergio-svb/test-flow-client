@@ -1,6 +1,6 @@
 # test-flow-client
 
-> Vue client for test-flow (API) repository
+> Vue client for test-flow-api (API) repository
 
 ## Build Setup
 
